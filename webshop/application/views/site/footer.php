@@ -42,7 +42,7 @@
 			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
 					<address>
-					  <strong>    SHOP thời trang Silly Cats</strong><br>
+					  <strong>    SHOP thú cưng Silly Cats</strong><br>
 					  <span class="glyphicon glyphicon-home" aria-hidden="true"></span> Địa chỉ: Vincom Mega Mall Royal City, 72A Đ. Nguyễn Trãi, Thượng Đình, Thanh Xuân, Hà Nội
 <br>
 					  <span class="glyphicon glyphicon-phone" aria-hidden="true"></span> Hot line: 0333090909<br>
@@ -52,7 +52,7 @@
 				<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 text-right">
 					<a href="https://www.facebook.com/thuanvu2505/"><img src="<?php echo base_url(); ?>upload/icon/facebook.png" alt=""></a>
 					<a href="https://www.facebook.com/thuanvu2505/"><img src="<?php echo base_url(); ?>upload/icon/twitter.png" alt=""></a>
-					<a href="https://www.facebook.com/thuanvu2505/"><img src="<?php echo base_url(); ?>upload/icon/google.png" alt=""></a>
+					<a href="https://shopee.vn/"><img src="<?php echo base_url(); ?>upload/icon/sp.png" alt=""></a>
 				</div>
 				<div class="clearfix"></div>
 			</div>
