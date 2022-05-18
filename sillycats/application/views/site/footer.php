@@ -26,7 +26,10 @@
 				    </div>
 				</div>
 				<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-				    <p>Hỗ trợ thanh toán  <img src="http://localhost/webshop/public/upload/pay.jpg" style="width: 10%"> </p>
+				    <p><small>Hỗ trợ thanh toán </small> 
+						<img src="http://localhost/PetShop/webshop/upload/pay.png" style="width: 10%">
+						<img src="http://localhost/PetShop/webshop/upload/momo.png" style="width: 10%">
+					</p>
 				    <div class="fi-left pull-left">
 				      <p><small>Tư vẫn miễn phí (24/7)</small></p> 
 				      <strong>0333070707</strong>
