@@ -27,8 +27,8 @@
 				</div>
 				<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 				    <p><small>Hỗ trợ thanh toán </small> 
-						<img src="http://localhost/PetShop/webshop/upload/pay.png" style="width: 10%">
-						<img src="http://localhost/PetShop/webshop/upload/momo.png" style="width: 10%">
+						<img src="http://localhost/sillycats/upload/pay.png" style="width: 10%">
+						<img src="http://localhost/sillycats/upload/momo.png" style="width: 10%">
 					</p>
 				    <div class="fi-left pull-left">
 				      <p><small>Tư vẫn miễn phí (24/7)</small></p> 
